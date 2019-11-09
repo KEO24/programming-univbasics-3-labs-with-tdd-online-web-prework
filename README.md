@@ -22,7 +22,7 @@ few of them! All labs follow a similar format:
 - Run `learn` again to check your progress
 - Repeat until all tests are passing
 - Run `learn submit` to submit your solution
-
+/.bn 
 As the lesson material becomes more complex, so do the tests. Getting
 acquainted with reading and interpreting tests will help you overcome some of
 the toughest labs ahead. In this lesson, we're going to walk through reading
